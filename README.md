@@ -143,7 +143,7 @@ See [SECURITY.md](SECURITY.md) for the full rationale.
 Planned (redacted) screenshots — to be embedded here once available:
 
 ![Portal dashboard](docs/screenshots/portal-dashboard.png)
-- [ ] `docs/screenshots/live-brief-card.png` — Live brief result card (sources visible, no private data)
+![Live brief card](docs/screenshots/live-brief-card.png)
 - [ ] `docs/screenshots/telegram-safe-commands.png` — Telegram safe commands (bot/user IDs redacted)
 - [ ] `docs/screenshots/terminal-validation.png` — Terminal validation / git status / service status
 - [ ] `docs/screenshots/world-cup-watch-guide.png` — World Cup Watch Guide result

@@ -134,16 +134,29 @@ See [SECURITY.md](SECURITY.md) for the full rationale.
 
 ## Screenshots
 
-> _Placeholders — see [SCREENSHOT_CHECKLIST.md](SCREENSHOT_CHECKLIST.md) for what
-> to capture and how to redact._
+> **Screenshots will be added after redaction.** The images below are planned but
+> not yet captured, so they are listed as a checklist rather than embedded images
+> (to avoid broken links). Capture and redaction guidance lives in
+> [SCREENSHOT_CHECKLIST.md](SCREENSHOT_CHECKLIST.md); the capture list is in
+> [docs/screenshots/SCREENSHOT_PLAN.md](docs/screenshots/SCREENSHOT_PLAN.md).
 
-- `docs/screenshots/portal-dashboard.png` — Portal home / dashboard
-- `docs/screenshots/live-brief-card.png` — Live web intel card
-- `docs/screenshots/telegram-commands.png` — Telegram command menu (redacted)
-- `docs/screenshots/validation-output.png` — Terminal validation output
-- `docs/screenshots/git-clean-status.png` — Clean git log / status
-- `docs/screenshots/world-cup-watch.png` — World Cup Watch Guide result
-- `docs/screenshots/cache-followup.png` — Cache-based follow-up result
+Planned (redacted) screenshots — to be embedded here once available:
+
+- [ ] `docs/screenshots/portal-dashboard.png` — Jarvis Portal main dashboard / command center
+- [ ] `docs/screenshots/live-brief-card.png` — Live brief result card (sources visible, no private data)
+- [ ] `docs/screenshots/telegram-safe-commands.png` — Telegram safe commands (bot/user IDs redacted)
+- [ ] `docs/screenshots/terminal-validation.png` — Terminal validation / git status / service status
+- [ ] `docs/screenshots/world-cup-watch-guide.png` — World Cup Watch Guide result
+- [ ] `docs/screenshots/cache-followup.png` — Cache-based follow-up ("tell me more" / "what sources did you use")
+
+<!--
+  When a redacted image exists, replace its checklist line above with an embed, e.g.:
+  ![Portal dashboard](docs/screenshots/portal-dashboard.png)
+  ![Live brief card](docs/screenshots/live-brief-card.png)
+  ![Telegram safe commands](docs/screenshots/telegram-safe-commands.png)
+  ![World Cup Watch Guide](docs/screenshots/world-cup-watch-guide.png)
+-->
+
 
 ---
 

@@ -142,7 +142,7 @@ See [SECURITY.md](SECURITY.md) for the full rationale.
 
 Planned (redacted) screenshots — to be embedded here once available:
 
-- [ ] `docs/screenshots/portal-dashboard.png` — Jarvis Portal main dashboard / command center
+![Portal dashboard](docs/screenshots/portal-dashboard.png)
 - [ ] `docs/screenshots/live-brief-card.png` — Live brief result card (sources visible, no private data)
 - [ ] `docs/screenshots/telegram-safe-commands.png` — Telegram safe commands (bot/user IDs redacted)
 - [ ] `docs/screenshots/terminal-validation.png` — Terminal validation / git status / service status
